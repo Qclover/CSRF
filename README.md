@@ -1,0 +1,2 @@
+# CSRF
+Bypass CSRF-XMLRequestWith
