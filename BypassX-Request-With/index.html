@@ -1,0 +1,21 @@
+﻿<html>
+<head>
+</head>
+<body>
+<script>
+//get URL and read parameters
+
+//create embed object, and call SWF with defined parameters
+var obj = document.createElement("embed");
+obj.src="csrf.swf";
+document.body.append(obj);
+  
+//function for SWF ExternalInterface.call method - to receive the response from SWF
+function process(data)
+{
+document.body.innerText=data;
+}
+</script>
+<embed src="csrf.swf"></embed>
+</body>
+</html>
