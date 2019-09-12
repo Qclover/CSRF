@@ -33,9 +33,9 @@ PS:ffdec_11.2.0_nightly1721_setup为swf编辑软件
 
 测试环境
 
-![img]({{site.baseurl}}/assets/images/CSRF/6.png)
+![img](http://qclover.cn/assets/images/CSRF/6.png)
 
-![img2]({{site.baseurl}}/assets/images/CSRF/7.png)
+![img2](http://qclover.cn/assets/images/CSRF/7.png)
 
 
 
